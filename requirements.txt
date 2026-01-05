@@ -11,3 +11,9 @@ chromadb
 faiss-cpu
 gradio
 streamlit
+sentence-transformers
+chromadb
+langchain-text-splitters
+scikit-learn
+pandas
+tqdm
